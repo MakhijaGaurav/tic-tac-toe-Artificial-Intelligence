@@ -1,0 +1,33 @@
+p{
+    text-align: center;
+    font-size: 15px;
+}
+.container{
+    background-color: black;
+    
+}
+.heading{
+    text-align: center;
+    font-size: 25px;
+    margin: 25px;
+}
+.body{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-color: #2196F3;
+    padding: 10px;
+    width: 495px;
+    height: 495px;
+    margin-left: 500px;
+}
+.game{
+    background-color: lemonchiffon;
+    width: 155px;
+    margin: 5px;
+    height: 155px;  
+    text-align: center;
+    font-size: 100px;
+}
+.game:hover{
+    background-color: cadetblue;
+}
